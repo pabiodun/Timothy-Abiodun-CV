@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Cinematographer CV — [Your Name]</title>
+  <title>Cinematographer — TIMOTHY ABIODUN</title>
   <meta name="description" content="Cinematographer CV / showreel link / equipment list / credits" />
   <style>
     /* Simple, print-friendly CV layout */
@@ -65,14 +65,14 @@
     <header>
       <div class="avatar">[Photo]</div>
       <div>
-        <h1>[Your Name]</h1>
+        <h1>TIMOTHY ABIODUN</h1>
         <h2>Cinematographer / Director of Photography</h2>
         <div class="meta">Based in City, Country • Available for film, commercial & music video projects</div>
       </div>
 
       <div class="contact">
         <div class="meta">Email: <a href="mailto:you@example.com">you@example.com</a></div>
-        <div class="meta">Phone: +44 7XXX XXX XXX</div>
+        <div class="meta">Phone: +234 8033111178</div>
         <div class="meta">Website: <a href="https://example.com" target="_blank">example.com</a></div>
         <div style="margin-top:8px"><a class="reel" href="https://vimeo.com/yourreel" target="_blank">Watch Reel</a></div>
       </div>
@@ -80,7 +80,7 @@
 
     <div class="summary">
       <strong>Profile</strong>
-      <p style="margin:8px 0 0 0">Creative and technically skilled cinematographer with X+ years experience in narrative film, commercials, and music videos. Comfortable leading camera and lighting departments, planning look development, and collaborating closely with directors to realise visual storytelling goals.</p>
+      <p style="margin:8px 0 0 0">Creative and technically skilled cinematographer with 10+ years experience in narrative film, commercials, and music videos. Comfortable leading camera and lighting departments, planning look development, and collaborating closely with directors to realise visual storytelling goals.</p>
     </div>
 
     <div class="grid">
@@ -164,7 +164,7 @@
           <div class="section-title"><h3>Languages</h3><div class="meta"></div></div>
           <ul>
             <li>English — Native</li>
-            <li>Spanish — Conversational</li>
+            <li>French — Conversational</li>
           </ul>
         </section>
 
@@ -176,7 +176,7 @@
     </div>
 
     <footer>
-      <div>Updated: <span class="meta">[Month Year]</span> • PDF-friendly | Print to PDF for a one-page CV</div>
+      <div>Updated: <span class="meta">[November 2025]</span> • PDF-friendly | Print to PDF for a one-page CV</div>
     </footer>
   </div>
 </body>

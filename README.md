@@ -62,7 +62,7 @@
 <body>
   <div class="container">
     <header>
-      <div class="avatar">[Photo]</div>
+      <div class="avatar">P img.jpg</div>
       <div>
         <h1>TIMOTHY ABIODUN</h1>
         <h2>Cinematographer / Director of Photography</h2>

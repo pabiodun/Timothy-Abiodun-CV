@@ -62,8 +62,7 @@
 <body>
   <div class="container">
     <header>
-      <div class="avatar">[![P img](https://github.com/user-attachments/assets/ef16c440-2a3e-4882-ac45-ca0bdf5b0997)
-]</div>
+      <div class="avatar">[Photo]</div>
       <div>
         <h1>TIMOTHY ABIODUN</h1>
         <h2>Cinematographer / Director of Photography</h2>

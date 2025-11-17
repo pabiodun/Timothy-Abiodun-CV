@@ -62,7 +62,7 @@
 <body>
   <div class="container">
     <header>
-      <div class="avatar">![Avatar](images/avatar.png)
+      <div class="avatar"><img src="logo4.png">
 </div>
       <div>
         <h1>TIMOTHY ABIODUN</h1>

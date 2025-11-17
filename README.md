@@ -62,7 +62,7 @@
 <body>
   <div class="container">
     <header>
-      <div class="avatar"><img src="images/passport 1.jpg" width="150" alt="Avatar">
+      <div class="avatar"><img src="images/logo4.png" width="150" alt="Avatar">
 </div>
       <div>
         <h1>TIMOTHY ABIODUN</h1>

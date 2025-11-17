@@ -62,7 +62,8 @@
 <body>
   <div class="container">
     <header>
-      <div class="avatar"><img src="https://github.com/passport 1.jpg"></div>
+      <div class="avatar"><img src="images/passport 1.jpg" width="150" alt="Avatar">
+</div>
       <div>
         <h1>TIMOTHY ABIODUN</h1>
         <h2>Cinematographer / Director of Photography</h2>

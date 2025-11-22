@@ -71,16 +71,16 @@
       </div>
 
       <div class="contact">
-        <div class="meta">Email: <a href="mailto:you@example.com">you@example.com</a></div>
+        <div class="meta">Email: <a href="mailto:you@example.com">timothyabiodun15@gmail.com</a></div>
         <div class="meta">Phone: +234 8033111178</div>
-        <div class="meta">Website: <a href="https://example.com" target="_blank">example.com</a></div>
+        <div class="meta">instagram: <a href="https://example.com" target="_blank">example.com</a></div>
         <div style="margin-top:8px"><a class="reel" href="https://vimeo.com/yourreel" target="_blank">Watch Reel</a></div>
       </div>
     </header>
 
     <div class="summary">
       <strong>Profile</strong>
-      <p style="margin:8px 0 0 0">Creative and technically skilled cinematographer with 10+ years experience in narrative film, commercials, and music videos. Comfortable leading camera and lighting departments, planning look development, and collaborating closely with directors to realise visual storytelling goals.</p>
+      <p style="margin:8px 0 0 0">Creative and technically skilled cinematographer with extensive experience in narrative film, commercials, and music videos. Strong collaborator with directors and production teams, skilled in lighting design, camera operation, and visual storytelling.</p>
     </div>
 
     <div class="grid">
@@ -91,25 +91,25 @@
             <div class="meta">(Camera / DoP)</div>
           </div>
           <ul class="credits">
-            <li><strong>Feature — "Title of Film"</strong> (Director's Name) — DoP — <span class="meta">2024</span>
+            <li><strong>Short Film — Title of Film : Sweeter The Juice</strong> Directed by Director’s Name — DoP — <span class="meta">2025</span>
               <div class="meta">Notes: 35mm look, pushed color grade, night exterior driving sequences.</div>
             </li>
-            <li><strong>Short — "Another Title"</strong> (Director) — DoP — <span class="meta">2023</span>
-              <div class="meta">Festival: Sundance 2024 (Official Selection)</div>
+            <li><strong>Commercial — "High-Water Mark School"</strong> Camera / Lighting  — DoP — <span class="meta">2025</span>
+              <div class="meta">Festival: Sundance 2025 (Official Selection)</div>
             </li>
-            <li><strong>Commercial — Brand Name</strong> — Camera / Lighting — <span class="meta">2022</span></li>
-            <li><strong>Music Video — Artist Name</strong> — DoP — <span class="meta">2021</span></li>
+            <li><strong>Feature Film — The Lost Mandate</strong> — DoP 2 — <span class="meta">2024</span></li>
+            <li><strong>Music Video — Lizzy Folorunso </strong> — DoP — <span class="meta">2024</span></li>
           </ul>
         </section>
 
         <section class="card" style="margin-top:14px">
           <div class="section-title"><h3>Experience</h3><div class="meta">Previous Roles</div></div>
           <ul>
-            <li><strong>Director of Photography</strong> — Freelance (2018 — Present)
-              <div class="meta">Responsibilities: Lighting design, camera/crew management, look development, camera movement & framing.</div>
+            <li><strong>Director of Photography</strong> — Freelance (2024 — Present)
+              <div class="meta">•	Responsibilities include lighting design, crew management, camera operation, and look development.</div>
             </li>
-            <li style="margin-top:8px"><strong>Camera Operator</strong> — Production Company (2015 — 2018)
-              <div class="meta">Worked across commercials and short films; familiar with Arri, RED, Sony cinema cameras.</div>
+            <li style="margin-top:8px"><strong>Camera Operator</strong> — CTR Media Productions (2020 — 2024)
+              <div class="meta">•	Worked across commercials and short films; experienced with Black magix, Canon, and Sony cinema systems.</div>
             </li>
           </ul>
         </section>
@@ -117,8 +117,8 @@
         <section class="card" style="margin-top:14px">
           <div class="section-title"><h3>Education & Training</h3><div class="meta">Relevant courses</div></div>
           <ul>
-            <li><strong>B.A. Film Production</strong> — Film School Name — <span class="meta">2012 — 2015</span></li>
-            <li><strong>Advanced Lighting Workshop</strong> — [Instructor/Company] — <span class="meta">2020</span></li>
+            <li><strong>Diploma in Film Production</strong> — CTR Film School — <span class="meta">2018 — 2020</span></li>
+            <li><strong>Lighting Workshop </strong> — Ojo Busayo/Above n Beyond  — <span class="meta">2023</span></li>
           </ul>
         </section>
 
@@ -137,7 +137,6 @@
           <div class="skills">
             <div class="skill">Lighting Design</div>
             <div class="skill">Camera Operation</div>
-            <div class="skill">Color Grading (DaVinci)</div>
             <div class="skill">Gimbal & Crane</div>
             <div class="skill">Digital & Film Workflows</div>
             <div class="skill">Look Development</div>
@@ -150,12 +149,10 @@
           <div class="section-title"><h3>Equipment (select)</h3><div class="meta">Cameras & Lenses</div></div>
           <div class="equipment">
             <ul>
-              <li>Arri Alexa Mini / LF</li>
-              <li>RED Komodo / RED V-RAPTOR (optional)</li>
+              <li>Black Magix</li>
               <li>Canon / Zeiss CP.2 lenses</li>
-              <li>Cooke S4/i (when requested)</li>
-              <li>Gimbal: Ronin 2 / Movi Pro</li>
-              <li>Lighting: ARRI Skypanel, Kino Flo, HMI kits</li>
+              <li>Crane</li>
+              <li>Dji Ronin 2 / Crane Gimbals</li>
             </ul>
           </div>
         </section>
@@ -170,7 +167,7 @@
 
         <section class="card" style="margin-top:14px">
           <div class="section-title"><h3>References</h3><div class="meta">Available on request</div></div>
-          <p class="meta">References and full credits list available on request or via website.</p>
+          <p class="meta">References and full credits list available on request or s.media.</p>
         </section>
       </aside>
     </div>

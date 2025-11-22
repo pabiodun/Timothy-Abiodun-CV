@@ -67,7 +67,7 @@
       <div>
         <h1>TIMOTHY ABIODUN</h1>
         <h2>Cinematographer / Director of Photography</h2>
-        <div class="meta">Based in City, Country • Available for film, commercial & music video projects</div>
+        <div class="meta">Akure, Nigeria • Available for film, commercial & music video projects</div>
       </div>
 
       <div class="contact">

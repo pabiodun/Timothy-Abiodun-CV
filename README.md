@@ -91,7 +91,7 @@
             <div class="meta">(Camera / DoP)</div>
           </div>
           <ul class="credits">
-            <li><strong>Short Film — Title of Film : Sweeter The Juice</strong> Directed by Director’s Name — DoP — <span class="meta">2025</span>
+            <li><strong>Short Film — Title of Film : Sweeter The Juice</strong> Directed by Michael Ajayi — DoP — <span class="meta">2025</span>
               <div class="meta">Notes: 35mm look, pushed color grade, night exterior driving sequences.</div>
             </li>
             <li><strong>Commercial — "High-Water Mark School"</strong> Camera / Lighting  — DoP — <span class="meta">2025</span>
